@@ -57,13 +57,6 @@ I'm a passionate developer with a keen interest in web development and machine l
   
 </p>
 
-### Other Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</p>
 
 ## 📊 GitHub Analytics
 
@@ -78,15 +71,6 @@ I'm a passionate developer with a keen interest in web development and machine l
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jefin10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jefin10's top languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefin10&show_icons=true&locale=en&theme=tokyonight" alt="jefin10's GitHub stats" />
-</p>
-
-## 📈 Contribution Graph
-
-[![Jefin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jefin10&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 ## 🌟 Featured Projects
