@@ -83,6 +83,12 @@ I'm a passionate developer with a keen interest in web development and machine l
   <img src="https://github-readme-stats.vercel.app/api?username=jefin10&show_icons=true&locale=en&theme=tokyonight" alt="jefin10's GitHub stats" />
 </p>
 
+## 📈 Contribution Graph
+
+[![Jefin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jefin10&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 ## 🌟 Featured Projects
 
 
@@ -95,6 +101,8 @@ A responsive YouTube clone leveraging the YouTube API, showcasing front-end deve
 - YouTube API
 
 👉 [Check out the live demo here](https://youtube-clone-neon-six.vercel.app/)
+
+
 
 
 
