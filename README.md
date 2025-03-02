@@ -63,16 +63,26 @@ I'm a passionate developer with a keen interest in web development and machine l
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jefin10&theme=blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jefin10&theme=blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefin10&theme=blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jefin10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jefin10&theme=blue&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefin10&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefin10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jefin10&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ## 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=jefin10&limit=5&theme=blue&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jefin10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</p>
 
 ## 🌟 Featured Projects
 
