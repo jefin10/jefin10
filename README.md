@@ -16,65 +16,72 @@ I'm a passionate developer with a keen interest in web development and machine l
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- TypeScript
 
 ### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</p>
+- React
+- HTML5
+- CSS3
+- TailwindCSS
+- React Router
+- Redux
+- Vite
 
 ### Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</p>
+- Node.js
+- Express
+- Flask
+- JWT
+- Nodemon
+
+### Databases
+- MongoDB
+- MySQL
+- SQLite
+- Supabase
 
 ### AI/ML
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</p>
+- TensorFlow
+- Keras
+- scikit-learn
+- OpenCV
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
 
 ### App Development
-<p align="left">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  
-</p>
+- React Native
 
+### Tools & Platforms
+- Git
+- GitHub
+- Vercel
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefin10&theme=tokyonight" alt="jefin10's streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jefin10&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jefin10&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="jefin10's trophies" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jefin10&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jefin10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jefin10's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefin10&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jefin10&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ## 🌟 Featured Projects
-
 
 ### 🎥 YouTube Clone
 
@@ -86,10 +93,10 @@ A responsive YouTube clone leveraging the YouTube API, showcasing front-end deve
 
 👉 [Check out the live demo here](https://youtube-clone-neon-six.vercel.app/)
 
-
-
-
-
+## 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jefin10&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
 
 ## 🤝 Let's Connect!
 
@@ -103,7 +110,13 @@ A responsive YouTube clone leveraging the YouTube API, showcasing front-end deve
   <a href="https://www.leetcode.com/jefin_10" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="mailto:jefinfrancis10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <h3 align="center">💡 A Problem is a Chance for You to Do Your Best</h3>
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=jefin10&icon=0&color=0" alt="Visit Count" />
+</p>
