@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 Jefin Francis | Developer & Tech Enthusiast 🚀</h1>
+<h1 align="center">👨‍💻 Jefin Francis | Full Stack Dev & AI Explorer 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+MERN+%7C+React+Native;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A7%90;Always+Building+Cool+Stuff+%F0%9F%92%BB;Dreaming+Big+%7C+SDE+In+Progress+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,18 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer with a keen interest in web development and machine learning. My journey in tech is driven by curiosity and a desire to create impactful solutions. When I'm not coding, you'll find me exploring new technologies or contributing to open-source projects.
+Hey there! I'm **Jefin Francis**, a Computer Science undergrad with a deep passion for **full-stack development**, especially using **MERN** and **React Native**. I also dive deep into the world of **Machine Learning & AI**, constantly exploring how tech can solve real-world problems.
+
+When I'm not coding, I'm probably:
+- Competing in hackathons 🏆  
+- Experimenting with new frameworks & tools 🧪  
+- Or dreaming up my next side project 💡  
+
+I'm on a mission to become a kickass **Software Development Engineer**, and every commit brings me closer.
+
+---
+
+Want me to help you write the rest (skills, tools, pinned projects section, maybe a streak graph)? We can turn this into a fire README.
 
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
