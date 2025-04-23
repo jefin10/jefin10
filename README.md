@@ -22,7 +22,6 @@ I'm on a mission to become a kickass **Software Development Engineer**, and ever
 
 ---
 
-Want me to help you write the rest (skills, tools, pinned projects section, maybe a streak graph)? We can turn this into a fire README.
 
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
