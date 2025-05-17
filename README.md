@@ -9,15 +9,14 @@
   <img src="https://img.shields.io/github/followers/jefin10?label=Followers&style=social" alt="followers" />
 </p>
 
-##  About Me
+## About Me
 
-CS undergrad passionate about building end-to-end applications that solve real problems. I work primarily with the **MERN stack** and **React Native** for mobile development, while exploring **Machine Learning & AI** applications in my free time.
+I’m a Computer Science undergraduate who builds end-to-end solutions that turn real-world problems into elegant, scalable software. My core toolkit is the **MERN stack** for web and **React Native** for mobile, and I’m actively leveling up in **Flutter** while applying **Machine Learning & AI** wherever they add real value.
 
--  Currently working on scaling full-stack web applications
--  Learning advanced state management and AI integration patterns
--  Open to collaborate on innovative projects that challenge the status quo
--  Aspiring Software Development Engineer with a focus on product development
----
+### 🔧 What I’m Working On
+1. **Full-stack development** – architecting robust back-ends and crafting responsive, user-centric front-ends.
+2. **App development with Flutter & React Native** – creating polished cross-platform mobile experiences.
+3. **Machine Learning, AI & Computer Vision** – experimenting with deep learning, real-time CV systems, and AI-driven features in apps.
 
 
 ## 🛠️ Tech Stack:
