@@ -93,7 +93,7 @@ I don't just build side projects — I've shipped production systems: a voice-dr
 
 ## 🌟 Featured Projects
 
-### EchoPay — Voice-Driven UPI Payment App &nbsp;&nbsp;[GitHub](https://github.com/jefin10/EchoPay) · [Live](https://echopay.jefin.xyz)
+### EchoPay — Voice-Driven UPI Payment App &nbsp;&nbsp;[GitHub](https://github.com/jefin10/EchoPay) 
 > Flutter · Django · Flask · Rasa · Keras · PostgreSQL
 
 A hands-free UPI payment app powered by a 4-service microservices backend and a custom NLP pipeline.
